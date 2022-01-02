@@ -2,6 +2,8 @@
 
 <a href="https://www.packtpub.com/in/cloud-networking/automating-workflows-with-github-actions?utm_source=github&utm_medium=repository&utm_campaign=9781800560406"><img src="https://static.packt-cdn.com/products/9781800560406/cover/smaller" alt="Automating Workflows with GitHub Actions" height="256px" align="right"></a>
 
+THIS LINE WAS ADDED TO FOLLOW THE PROCESS OF CREATING A PULL REQUEST, AS DESCRIBED ON Pp. 30-33 OF THE PACKT PUBLISHING GITHUB ACTIONS WORKBOOK.
+
 This is the code repository for [Automating Workflows with GitHub Actions](https://www.packtpub.com/in/cloud-networking/automating-workflows-with-github-actions?utm_source=github&utm_medium=repository&utm_campaign=9781800560406), published by Packt.
 
 **Automate software development workflows and seamlessly deploy your applications using GitHub Actions**
